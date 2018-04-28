@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EventTest</string>
+    <string name="sendData">传递数据</string>
+    <string name="send_data">要传递的数据（任何复杂对象都可以）</string>
+
+
+    <string name="please_input_name">请输入姓名</string>
+    <string name="please_input_age">请输入年龄</string>
+
+</resources>

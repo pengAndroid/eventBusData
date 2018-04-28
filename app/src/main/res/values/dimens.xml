@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="d100px">50dp</dimen>
+    <dimen name="d40px">20dp</dimen>
+
+
+
+    <dimen name="s32px">16sp</dimen>
+</resources>
