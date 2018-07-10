@@ -1,7 +1,7 @@
 package com.example.lzpeng.eventtest;
 
 /**
- * desc :   event数据的传递类
+ * desc :   event事件的传递消息类
  * author : lzPeng
  * time : 2018/4/27 19:27
  */

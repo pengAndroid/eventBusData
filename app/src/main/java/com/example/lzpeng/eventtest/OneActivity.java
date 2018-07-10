@@ -34,7 +34,9 @@ public class OneActivity extends Activity {
      * @time 2018/4/27  20:15
      */
     public void btnSend(View view) {
+        //发送粘性事件
         EventBus.getDefault().postSticky(new ObjEvent(etName.getText().toString(), etAge.getText().toString()));
+        //跳转需要接受事件数据的界面
         startActivity(new Intent(OneActivity.this, TwoActivity.class));
     }
 
